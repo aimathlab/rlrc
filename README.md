@@ -1,2 +1,1 @@
-# rlrc
-Reinforcement Learning Research Club
+# Reinforcement Learning Research Club
