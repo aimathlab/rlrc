@@ -1,6 +1,6 @@
 # Reinforcement Learning Research Club
 
-DeepMind에서 발표되는 논문 위주로 연구
+DeepMind에서 발표되는 논문 위주의 논문 클럽
 * * *
 ## 190920
 * [Temporal difference variational auto-encoder](https://arxiv.org/pdf/1806.03107.pdf), Presenter: 박주영
