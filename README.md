@@ -20,3 +20,7 @@ DeepMind에서 발표되는 논문 위주의 연구 클럽
 ## 191004
 * [Shaping Belief States with Generative Environment Models for RL](https://arxiv.org/pdf/1906.09237.pdf), Presenter: 박주영
 * [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf), Presenter: 주백석
+
+## 191025
+* [General non-linear Bellman equations](https://arxiv.org/pdf/1907.03687v1.pdf), Presenter: 박주영
+* [What does it mean to understand a neural network?](https://arxiv.org/pdf/1907.06374.pdf), Presenter: 이청화
