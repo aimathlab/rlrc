@@ -36,4 +36,11 @@ DeepMind에서 발표되는 논문 위주의 연구 클럽
 * [V-MPO: On-Policy Maximum a Posteriori Policy Optimization for Discrete and Continuous Control](https://arxiv.org/pdf/1909.12238.pdf), Presenter: 이주원
 * [Improving the Gating Mechanism of Recurrent Neural Networks](https://arxiv.org/pdf/1910.09890.pdf), Presenter: 김태환
 
+## 191129
+* [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/pdf/1911.08265.pdf), Presenter: 박주영, 이주원
+* [Simultaneously Learning Vision and Feature-based Control Policies for Real-world Ball-in-a-Cup](https://arxiv.org/pdf/1902.04706.pdf), Presenter: 주백석
+* [Towards Interpretable Reinforcement Learning Using Attention Augmented Agents](https://arxiv.org/pdf/1906.02500v1.pdf), Presenter: 이충기
+* [Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher](https://arxiv.org/pdf/1902.03393v1.pdf), Presenter: 이청화
+* [Improving the Gating Mechanism of Recurrent Neural Networks](https://arxiv.org/pdf/1910.09890.pdf), Presenter: 김태환, 박정호
 
+TO be added...
