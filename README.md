@@ -29,6 +29,7 @@ DeepMind에서 발표되는 논문 위주의 연구 클럽
 * [Hamiltonian Generative Networks](https://arxiv.org/pdf/1909.13789.pdf), Presenter: 박주영
 
 ## 191122
+* [Quinoa: A Q-function You Infer Normalized Over Actions](https://arxiv.org/pdf/1911.01831.pdf), Presenter: 박주영
 * [Simultaneously Learning Vision and Feature-based Control Policies for Real-world Ball-in-a-Cup](https://arxiv.org/pdf/1902.04706.pdf), Presenter: 주백석
 * [Adaptive Temporal-Difference Learning for Policy Evaluation with Per-State Uncertainty Estimates](https://arxiv.org/pdf/1906.07987.pdf), Presenter: 이청화
 * [Imagined Value Gradients: Model-Based Policy Optimization with Transferable Latent Dynamics Models](https://arxiv.org/pdf/1910.04142.pdf), Presenter: 박정호
