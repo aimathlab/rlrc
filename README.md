@@ -1,6 +1,6 @@
 ﻿# Reinforcement Learning Research Club
 
-DeepMind에서 발표하는 최신 논문을 탐구하는 연구 클럽
+DeepMind에서 발표하는 최신 논문을 탐구하는 연구 클럽  
 시간: 매주 금요일 오후 14:30 ~ 16:30
 * * *
 ## 190920
