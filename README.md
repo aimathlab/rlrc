@@ -46,7 +46,7 @@ DeepMind에서 발표하는 최신 논문을 탐구하는 연구 클럽
 
 ## 191213
 * [Fast Task Inference with Variational Intrinsic Successor Features](https://arxiv.org/pdf/1906.05030v1.pdf), Presenter: 박주영
-* [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z), Presenter: 고강원
+* [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z), Presenter: 고광원
 <!--
 * [Generalization of Reinforcement Learners with Working and Episodic Memory](https://arxiv.org/pdf/1910.13406.pdf), Presenter: 박정호
 * [Multiagent Evaluation under Incomplete Information](https://arxiv.org/pdf/1909.09849.pdf), Presenter: 이주원
