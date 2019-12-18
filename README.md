@@ -1,6 +1,6 @@
 ﻿# Reinforcement Learning Research Club
 
-DeepMind 최신 논문 탐구 연구 클럽
+DeepMind 최신 논문 연구 클럽  
 운영: 고려대 박주영(parkj@korea.ac.kr), 시간: 매주 금요일 오후 14:30 ~ 16:30, 장소: 고려대 대학원동 102호 or 삼성 Research Center 
 * * *
 ## 190920
