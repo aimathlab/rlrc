@@ -1,12 +1,12 @@
 ﻿# Reinforcement Learning Research Club
 
 DeepMind 최신 논문 연구 클럽  
-운영: 고려대 박주영(parkj@korea.ac.kr), 시간: 매주 금요일 오후 14:30 ~ 16:30, 장소: 고려대 대학원동 or 삼성 Research Center  
+운영: 고려대 박주영(parkj@korea.ac.kr), 시간: 매주 금요일 오후 14:30 ~ 16:30, 장소: 고려대 대학원동 401호 or 삼성 Research Center  
 * * *
-News   
+News  
 [RL클럽 새 멤버 합류] 2019년 11월 29일 삼성전자 이충기 박사님   
 [RL클럽 새 멤버 합류] 2019년 12월 13일 삼성전자 고광원 수석연구원님  
-[RL클럽 새 멤버 합류] 2019년 12월 20일 고려대 수학과 오승상 교수님  
+[RL클럽 새 멤버 합류] 2019년 12월 20일 고려대 수학과 오승상 교수님
 * * *
 ## 190920
 * [Temporal difference variational auto-encoder](https://arxiv.org/pdf/1806.03107.pdf), Presenter: 박주영
