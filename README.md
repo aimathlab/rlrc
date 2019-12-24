@@ -52,10 +52,32 @@ News
 ## 191213
 * [Fast Task Inference with Variational Intrinsic Successor Features](https://arxiv.org/pdf/1906.05030v1.pdf), Presenter: 박주영
 * [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z), Presenter: 고광원
-<!--
+
+## 191220
+* [Disentangled Cumulants Help Successor Representations Transfer to New Tasks](https://arxiv.org/pdf/1911.10866.pdf), Presenter: 박주영
+* [Reducing Sentiment Bias in Language Models via Counterfactual Evaluation](https://arxiv.org/pdf/1911.03064.pdf), Presenter: 이충기 
+* [OpenSpiel: A Framework for Reinforcement Learning in Games](https://arxiv.org/pdf/1908.09453v2.pdf), Presenter: 고광원
+* [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://arxiv.org/pdf/1904.12787.pdf), Presenter: 오승상
+
+## 191227
+* [MetaFun: Meta-Learning with Iterative Functional Updates](https://arxiv.org/pdf/1912.02738.pdf), Presenter: 박주영
+* [Combining Q-Learning and Search with Amortized Value Estimates](https://arxiv.org/pdf/1912.02807.pdf), Presenter: 이충기 
+* [Stacked Capsule Autoencoders](https://arxiv.org/pdf/1906.06818v1.pdf), Presenter: 오승상
 * [Generalization of Reinforcement Learners with Working and Episodic Memory](https://arxiv.org/pdf/1910.13406.pdf), Presenter: 박정호
 * [Multiagent Evaluation under Incomplete Information](https://arxiv.org/pdf/1909.09849.pdf), Presenter: 이주원
 * [Positive-Unlabeled Reward Learning](https://arxiv.org/pdf/1911.00459.pdf), Presenter: 김태환
+
+
+<!--
+* [](), Presenter: 박주영
+* [](), Presenter: 주백석
+* [](), Presenter: 이충기
+* [](), Presenter: 고광원
+* [](), Presenter: 오승상
+* [](), Presenter: 박정호
+* [](), Presenter: 이주원
+* [](), Presenter: 김태환
+* [](), Presenter: 김효빈
 -->
 
 To be added...
