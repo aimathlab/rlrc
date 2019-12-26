@@ -7,6 +7,7 @@ News
 [RL클럽 새 멤버 합류] 2019년 11월 29일 삼성전자 이충기 박사님   
 [RL클럽 새 멤버 합류] 2019년 12월 13일 삼성전자 고광원 수석연구원님  
 [RL클럽 새 멤버 합류] 2019년 12월 20일 고려대 수학과 오승상 교수님
+[RL클럽 새 멤버 합류] 2019년 12월 27일 삼성전자 이효빈 연구원님
 * * *
 ## 190920
 * [Temporal difference variational auto-encoder](https://arxiv.org/pdf/1806.03107.pdf), Presenter: 박주영
