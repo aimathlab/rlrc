@@ -72,7 +72,7 @@ News
 * [LOGAN: Latent Optimisation for Generative Adversarial Networks](https://arxiv.org/pdf/1912.00953.pdf), Presenter: 박주영  
 <!--* [](), Presenter: 이충기  
 * [](), Presenter: 고광원  -->
-* [Stacked Capsule Autoencoders](https://arxiv.org/pdf/1906.06818v1.pdf), Presenter: 오승상  
+* [Episodic Memory in Lifelong Language Learning](https://arxiv.org/pdf/1906.01076v1.pdf), Presenter: 오승상  
 <!--* [](), Presenter: 이효빈  -->
 * [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/pdf/1912.01603.pdf), Presenter: 박정호  
 * [Multiagent Evaluation under Incomplete Information](https://arxiv.org/pdf/1909.09849.pdf), Presenter: 이주원  
