@@ -64,12 +64,19 @@ News
 * [MetaFun: Meta-Learning with Iterative Functional Updates](https://arxiv.org/pdf/1912.02738.pdf), Presenter: 박주영
 * [Combining Q-Learning and Search with Amortized Value Estimates](https://arxiv.org/pdf/1912.02807.pdf), Presenter: 이충기 
 * [OpenSpiel: A Framework for Reinforcement Learning in Games](https://arxiv.org/pdf/1908.09453v2.pdf), Presenter: 고광원
-* [Stacked Capsule Autoencoders](https://arxiv.org/pdf/1906.06818v1.pdf), Presenter: 오승상
 * [Object-oriented state editing for HRL](https://arxiv.org/pdf/1910.14361.pdf), Presenter: 이효빈
 * [Generalization of Reinforcement Learners with Working and Episodic Memory](https://arxiv.org/pdf/1910.13406.pdf), Presenter: 박정호
-* [Multiagent Evaluation under Incomplete Information](https://arxiv.org/pdf/1909.09849.pdf), Presenter: 이주원
 * [Positive-Unlabeled Reward Learning](https://arxiv.org/pdf/1911.00459.pdf), Presenter: 김태환
 
+## 200103
+* [LOGAN: Latent Optimisation for Generative Adversarial Networks](https://arxiv.org/pdf/1912.00953.pdf), Presenter: 박주영  
+<!--* [](), Presenter: 이충기  
+* [](), Presenter: 고광원  -->
+* [Stacked Capsule Autoencoders](https://arxiv.org/pdf/1906.06818v1.pdf), Presenter: 오승상  
+<!--* [](), Presenter: 이효빈  -->
+* [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/pdf/1912.01603.pdf), Presenter: 박정호  
+* [Multiagent Evaluation under Incomplete Information](https://arxiv.org/pdf/1909.09849.pdf), Presenter: 이주원  
+* [Positive-Unlabeled Reward Learning](https://arxiv.org/pdf/1911.00459.pdf), Presenter: 김태환  
 
 <!--
 * [](), Presenter: 박주영
