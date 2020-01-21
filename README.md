@@ -71,20 +71,41 @@ News
 ## 200103
 * [LOGAN: Latent Optimisation for Generative Adversarial Networks](https://arxiv.org/pdf/1912.00953.pdf), Presenter: 박주영  
 * [Episodic Memory in Lifelong Language Learning](https://arxiv.org/pdf/1906.01076v1.pdf), Presenter: 오승상  
+* [Training language GANs from Scratch](https://arxiv.org/pdf/1905.09922v1.pdf), Presenter: 이청화  
 * [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/pdf/1912.01603.pdf), Presenter: 박정호  
-* [Multiagent Evaluation under Incomplete Information](https://arxiv.org/pdf/1909.09849.pdf), Presenter: 이주원  
 * [Positive-Unlabeled Reward Learning](https://arxiv.org/pdf/1911.00459.pdf), Presenter: 김태환  
 
+## 200110
+* [Fast Task Inference with Variational Intrinsic Successor Features](https://arxiv.org/pdf/1906.05030v1.pdf), Presenter: 박주영, 이주원
+* [Reinforcement learning, fast and slow](https://www.cell.com/action/showPdf?pii=S1364-6613%2819%2930061-0), Presenter: 이충기
+* [Behaviour Suite for Reinforcement Learning](https://arxiv.org/pdf/1908.03568.pdf), Presenter: 고광원
+* [Implicit Quantile Networks for Distributional Reinforcement Learning](https://arxiv.org/pdf/1806.06923.pdf), Presenter: 이효빈  
+* [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/pdf/1912.01603.pdf), Presenter: 박정호  
+* [International evaluation of an AI system for breast cancer screening](https://www.nature.com/articles/s41586-019-1799-6), Presenter: 김태환  
+
+## 200117
+* [Making Sense of Reinforcement Learning and Probabilistic Inference](https://arxiv.org/pdf/2001.00805.pdf), Presenter: 박주영  
+* [Top-K Off-Policy Correction for a REINFORCE Recommender System](https://arxiv.org/pdf/1812.02353.pdf), Presenter: 이충기  
+* [Deep-Reinforcement Learning-Based Co-Evolution in a Predator–Prey System](https://www.mdpi.com/1099-4300/21/8/773), Presenter: 박정호  
+* [Multiagent Evaluation under Incomplete Information](https://arxiv.org/pdf/1909.09849.pdf), Presenter: 이주원  
+* [A predator-prey optimization for structural health monitoring problems](https://www.matec-conferences.org/articles/matecconf/abs/2019/30/matecconf_incer2019_01004/matecconf_incer2019_01004.html), Presenter: 김태환  
+* [AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://arxiv.org/pdf/1912.02781.pdf), Presenter: 남상우  
+* [AlphaFold: Improved protein structure prediction using potentials from deep learning](https://www.nature.com/articles/s41586-019-1923-7), Presenter: 최창균  
+
+
 <!--
-* [](), Presenter: 박주영
-* [](), Presenter: 주백석
-* [](), Presenter: 이충기
-* [](), Presenter: 고광원
-* [](), Presenter: 오승상
-* [](), Presenter: 이효빈
-* [](), Presenter: 박정호
-* [](), Presenter: 이주원
-* [](), Presenter: 김태환
+## 20  
+* [](), Presenter: 박주영  
+* [](), Presenter: 주백석  
+* [](), Presenter: 이충기  
+* [](), Presenter: 고광원  
+* [](), Presenter: 오승상  
+* [](), Presenter: 이효빈  
+* [](), Presenter: 박정호  
+* [](), Presenter: 이주원  
+* [](), Presenter: 김태환  
+* [](), Presenter: 남상우  
+* [](), Presenter: 최창균  
 -->
 
 To be added...
