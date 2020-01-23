@@ -1,7 +1,7 @@
 ﻿# Reinforcement Learning Research Club
 
 DeepMind 최신 논문 연구 클럽  
-운영: 고려대 박주영(parkj@korea.ac.kr), 시간: 매주 금요일 오후 14:30 ~ 16:30, 장소: 고려대 대학원동 401호 or 삼성 Research Center  
+운영: 고려대 박주영(parkj@korea.ac.kr), 시간: 매주 금요일 오후 14:30 ~ 16:30, 장소: 고려대 대학원동 or 삼성 Research Center  
 * * *
 News  
 [RL클럽 새 멤버 합류] 2019년 11월 29일 삼성전자 이충기 박사님   
@@ -92,6 +92,11 @@ News
 * [AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty](https://arxiv.org/pdf/1912.02781.pdf), Presenter: 남상우  
 * [AlphaFold: Improved protein structure prediction using potentials from deep learning](https://www.nature.com/articles/s41586-019-1923-7), Presenter: 최창균  
 
+## 200131  
+* [What Can Learned Intrinsic Rewards Capture?](https://arxiv.org/pdf/1912.05500.pdf), Presenter: 박주영  
+* [A distributional code for value in dopamine-based reinforcement learning](https://www.nature.com/articles/s41586-019-1924-6), Presenter: 이충기  
+* [Continuous-Discrete Reinforcement Learning for Hybrid Control in Robotics](https://arxiv.org/pdf/2001.00449.pdf), Presenter: 오승상  
+* [α-Rank: Multi-Agent Evaluation by Evolution](https://www.nature.com/articles/s41598-019-45619-9), Presenter: 이주원  
 
 <!--
 ## 20  
