@@ -95,10 +95,12 @@ News
 ## 200131  
 * [What Can Learned Intrinsic Rewards Capture?](https://arxiv.org/pdf/1912.05500.pdf), Presenter: 박주영  
 * [A distributional code for value in dopamine-based reinforcement learning](https://www.nature.com/articles/s41586-019-1924-6), Presenter: 이충기  
-* [Continuous-Discrete Reinforcement Learning for Hybrid Control in Robotics](https://arxiv.org/pdf/2001.00449.pdf), Presenter: 오승상  
+* [Continuous-Discrete Reinforcement Learning for Hybrid Control in Robotics](https://arxiv.org/pdf/2001.00449.pdf), Presenter: 오승상 
+* [Statistics and Samples in Distributional Reinforcement Learning](https://arxiv.org/pdf/1902.08102.pdf), Presenter: 이효빈  
 * [Adapting Behaviour for Learning Progress](https://arxiv.org/pdf/1912.06910.pdf), Presenter: 박정호 
 * [α-Rank: Multi-Agent Evaluation by Evolution](https://www.nature.com/articles/s41598-019-45619-9), Presenter: 이주원  
 * [A Deep Neural Network’s Loss Surface Contains Every Low-dimensional Pattern](https://arxiv.org/pdf/1912.07559.pdf), Presenter: 김태환  
+
 
 <!--
 ## 20  
