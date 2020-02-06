@@ -101,6 +101,10 @@ News
 * [α-Rank: Multi-Agent Evaluation by Evolution](https://www.nature.com/articles/s41598-019-45619-9), Presenter: 이주원  
 * [A Deep Neural Network’s Loss Surface Contains Every Low-dimensional Pattern](https://arxiv.org/pdf/1912.07559.pdf), Presenter: 김태환  
 
+## 200207  
+* [A Generalized Training Approach for Multiagent Learning](https://arxiv.org/pdf/1909.12823v1.pdf), Presenter: 박주영  
+* [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901v1.pdf), Presenter: 고광원  
+* [Emergent Systematic Generalization in a Situated Agent](https://arxiv.org/pdf/1910.00571.pdf), Presenter: 박정호  
 
 <!--
 ## 20  
