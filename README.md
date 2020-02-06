@@ -105,6 +105,8 @@ News
 * [A Generalized Training Approach for Multiagent Learning](https://arxiv.org/pdf/1909.12823v1.pdf), Presenter: 박주영  
 * [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901v1.pdf), Presenter: 고광원  
 * [Emergent Systematic Generalization in a Situated Agent](https://arxiv.org/pdf/1910.00571.pdf), Presenter: 박정호  
+* [Multiagent Evaluation under Incomplete Information](https://arxiv.org/pdf/1909.09849.pdf), Presenter: 이주원  
+* [Sideways: Depth-Parallel Training of Video Models](https://arxiv.org/pdf/2001.06232.pdf), Presenter: 남상우 
 
 <!--
 ## 20  
