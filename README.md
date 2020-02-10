@@ -112,6 +112,7 @@ News
 * [Neural Replicator Dynamics](https://arxiv.org/pdf/1906.00190v1.pdf), Presenter: 박주영  
 * [Gradient-based Adaptive Markov Chain Monte Carlo](https://arxiv.org/pdf/1911.01373.pdf), Presenter: 이충기  
 * [Interval Timing in Deep Reinforcement Learning Agents](https://arxiv.org/pdf/1905.13469v1.pdf), Presenter: 박정호  
+* [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/pdf/1912.02762.pdf), Presenter: 이주원  
 * [Self-supervised Learning of Image Embedding for Continuous Control](https://arxiv.org/pdf/1901.00943v1.pdf), Presenter: 김태환  
 <!--
 ## 20  
