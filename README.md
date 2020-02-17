@@ -113,6 +113,10 @@ News
 * [Gradient-based Adaptive Markov Chain Monte Carlo](https://arxiv.org/pdf/1911.01373.pdf), Presenter: 이충기  
 * [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/pdf/1912.02762.pdf), Presenter: 이주원  
 * [Example of Neural Replicator Dynamics with Open Spiel](https://github.com/deepmind/open_spiel/blob/master/docs/algorithms.md), Presenter: 김태환  
+
+## 200221  
+* [Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent](https://arxiv.org/pdf/1903.05614v3.pdf), Presenter: 박주영  
+* [Self-supervised Learning of Image Embedding for Continuous Control](https://arxiv.org/pdf/1901.00943v1.pdf), Presenter: 김태환 
 <!--
 ## 20  
 * [](), Presenter: 박주영  
@@ -125,7 +129,7 @@ News
 * [](), Presenter: 김태환  
 * [](), Presenter: 남상우  
 * [](), Presenter: 최창균  
-* [Self-supervised Learning of Image Embedding for Continuous Control](https://arxiv.org/pdf/1901.00943v1.pdf), Presenter: 김태환 
+* [](), Presenter: 김태환 
 -->
 
 To be added...
