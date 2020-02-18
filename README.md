@@ -116,8 +116,11 @@ News
 
 ## 200221  
 * [Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent](https://arxiv.org/pdf/1903.05614v3.pdf), Presenter: 박주영  
+* [Smooth markets: A basic mechanism for organizing gradient-based learners](https://arxiv.org/pdf/2001.04678.pdf), Presenter: 오승상  
 * [Interval Timing in Deep Reinforcement Learning Agents](https://arxiv.org/pdf/1905.13469v1.pdf), Presenter: 박정호  
+* [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/pdf/1912.02762.pdf), Presenter: 이주원  
 * [Self-supervised Learning of Image Embedding for Continuous Control](https://arxiv.org/pdf/1901.00943v1.pdf), Presenter: 김태환 
+
 <!--
 ## 20  
 * [](), Presenter: 박주영  
