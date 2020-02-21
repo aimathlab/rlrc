@@ -116,7 +116,6 @@ News
 
 ## 200221  
 * [Computing Approximate Equilibria in Sequential Adversarial Games by Exploitability Descent](https://arxiv.org/pdf/1903.05614v3.pdf), Presenter: 박주영  
-* [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901v1.pdf), Presenter: 고광원  
 * [Smooth markets: A basic mechanism for organizing gradient-based learners](https://arxiv.org/pdf/2001.04678.pdf), Presenter: 오승상  
 * [Reinforcement Learning Agents acquire Flocking and Symbiotic Behaviour in Simulated Ecosystems](https://www.mitpressjournals.org/doi/pdf/10.1162/isal_a_00148), Presenter: 박정호  
 * [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/pdf/1912.02762.pdf), Presenter: 이주원  
@@ -126,7 +125,7 @@ News
 ## 20  
 * [](), Presenter: 박주영  
 * [Discovery of Useful Questions as Auxiliary Tasks](https://arxiv.org/pdf/1909.04607v1.pdf), Presenter: 이충기  
-* [](), Presenter: 고광원  
+* [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901v1.pdf), Presenter: 고광원  
 * [](), Presenter: 오승상  
 * [](), Presenter: 이효빈  
 * [](), Presenter: 박정호  
