@@ -121,6 +121,11 @@ News
 * [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/pdf/1912.02762.pdf), Presenter: 이주원  
 * [Self-supervised Learning of Image Embedding for Continuous Control](https://arxiv.org/pdf/1901.00943v1.pdf), Presenter: 김태환  
 
+## 200306  
+* [Minimax Theorem for Latent Games or: How I Learned to Stop Worrying about Mixed-Nash and Love Neural Nets](https://arxiv.org/pdf/2002.05820.pdf), Presenter: 박주영  
+* [Static and Dynamic Values of Computation in MCTS](https://arxiv.org/pdf/2002.04335.pdf), Presenter: 박정호  
+* [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/pdf/1912.02762.pdf), Presenter: 이주원  
+
 <!--
 ## 20  
 * [](), Presenter: 박주영  
@@ -133,7 +138,6 @@ News
 * [](), Presenter: 김태환  
 * [](), Presenter: 남상우  
 * [](), Presenter: 최창균  
-* [](), Presenter: 김태환 
 -->
 
 To be added...
