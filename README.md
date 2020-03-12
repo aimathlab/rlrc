@@ -126,6 +126,13 @@ News
 * [Static and Dynamic Values of Computation in MCTS](https://arxiv.org/pdf/2002.04335.pdf), Presenter: 박정호  
 * [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/pdf/1912.02762.pdf), Presenter: 이주원  
 
+## 200313
+* [Open-ended Learning in Symmetric Zero-sum Games](https://arxiv.org/pdf/1901.08106.pdf), Presenter: 박주영  
+* [Static and Dynamic Values of Computation in MCTS](https://arxiv.org/pdf/2002.04335.pdf), Presenter: 박정호  
+* [Learning Robust and Multilingual Speech Representations](https://arxiv.org/pdf/2001.11128.pdf), Presenter: 이주원  
+* [Causally Correct Partial Models for Reinforcement Learning](https://arxiv.org/pdf/2002.02836.pdf), Presenter: 김태환  
+* [On Contrastive Learning for Likelihood-free Inference](https://arxiv.org/pdf/2002.03712.pdf), Presenter: 남상우  
+* [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/pdf/1912.01603.pdf), Presenter: 최창균  
 <!--
 ## 20  
 * [](), Presenter: 박주영  
