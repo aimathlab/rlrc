@@ -142,7 +142,6 @@ News
 
 ## 200327  
 * [Minimax Theorem for Latent Games or: How I Learned to Stop Worrying about Mixed-Nash and Love Neural Nets](https://arxiv.org/pdf/2002.05820.pdf), Presenter: 박주영  
-* [Social Diversity and Social Preferences in Mixed-Motive Reinforcement Learning](https://arxiv.org/pdf/2002.02325.pdf), Presenter: 박정호  
 
 <!--
 ## 20  
@@ -151,7 +150,7 @@ News
 * [](), Presenter: 고광원  
 * [](), Presenter: 오승상  
 * [](), Presenter: 이효빈  
-* [](), Presenter: 박정호  
+* [Social Diversity and Social Preferences in Mixed-Motive Reinforcement Learning](https://arxiv.org/pdf/2002.02325.pdf), Presenter: 박정호  
 * [](), Presenter: 이주원  
 * [](), Presenter: 김태환  
 * [](), Presenter: 남상우  
