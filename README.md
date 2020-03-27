@@ -129,15 +129,26 @@ News
 ## 200313
 * [Open-ended Learning in Symmetric Zero-sum Games](https://arxiv.org/pdf/1901.08106.pdf), Presenter: 박주영  
 * [Static and Dynamic Values of Computation in MCTS](https://arxiv.org/pdf/2002.04335.pdf), Presenter: 박정호  
-* [Learning Robust and Multilingual Speech Representations](https://arxiv.org/pdf/2001.11128.pdf), Presenter: 이주원  
 * [Causally Correct Partial Models for Reinforcement Learning](https://arxiv.org/pdf/2002.02836.pdf), Presenter: 김태환  
 * [On Contrastive Learning for Likelihood-free Inference](https://arxiv.org/pdf/2002.03712.pdf), Presenter: 남상우  
 * [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/pdf/1912.01603.pdf), Presenter: 최창균  
+
+## 200320
+* [Minimax Theorem for Latent Games or: How I Learned to Stop Worrying about Mixed-Nash and Love Neural Nets](https://arxiv.org/pdf/2002.05820.pdf), Presenter: 박주영  
+* [Discovery of Useful Questions as Auxiliary Tasks](https://arxiv.org/pdf/1909.04607v1.pdf), Presenter: 이충기  
+* [Social Diversity and Social Preferences in Mixed-Motive Reinforcement Learning](https://arxiv.org/pdf/2002.02325.pdf), Presenter: 박정호  
+* [Learning Robust and Multilingual Speech Representations](https://arxiv.org/pdf/2001.11128.pdf), Presenter: 이주원  
+* [Causally Correct Partial Models for Reinforcement Learning](https://arxiv.org/pdf/2002.02836.pdf), Presenter: 김태환  
+
+## 200327  
+* [Minimax Theorem for Latent Games or: How I Learned to Stop Worrying about Mixed-Nash and Love Neural Nets](https://arxiv.org/pdf/2002.05820.pdf), Presenter: 박주영  
+* [Social Diversity and Social Preferences in Mixed-Motive Reinforcement Learning](https://arxiv.org/pdf/2002.02325.pdf), Presenter: 박정호  
+
 <!--
 ## 20  
 * [](), Presenter: 박주영  
-* [Discovery of Useful Questions as Auxiliary Tasks](https://arxiv.org/pdf/1909.04607v1.pdf), Presenter: 이충기  
-* [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901v1.pdf), Presenter: 고광원  
+* [](), Presenter: 이충기  
+* [](), Presenter: 고광원  
 * [](), Presenter: 오승상  
 * [](), Presenter: 이효빈  
 * [](), Presenter: 박정호  
