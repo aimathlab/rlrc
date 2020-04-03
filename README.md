@@ -143,6 +143,9 @@ News
 ## 200327  
 * [Minimax Theorem for Latent Games or: How I Learned to Stop Worrying about Mixed-Nash and Love Neural Nets](https://arxiv.org/pdf/2002.05820.pdf), Presenter: 박주영  
 
+## 200403  
+* [From Poincare Recurrence to Convergence in Imperfect Information Games_Finding Equilibrium via Regularization](https://arxiv.org/pdf/2002.08456.pdf), Presenter: 박주영  
+
 <!--
 ## 20  
 * [](), Presenter: 박주영  
