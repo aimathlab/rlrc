@@ -146,6 +146,13 @@ News
 ## 200403  
 * [From Poincare Recurrence to Convergence in Imperfect Information Games_Finding Equilibrium via Regularization](https://arxiv.org/pdf/2002.08456.pdf), Presenter: 박주영  
 
+## 200410   
+* [From Poincare Recurrence to Convergence in Imperfect Information Games_Finding Equilibrium via Regularization](https://arxiv.org/pdf/2002.08456.pdf), Presenter: 박주영  
+
+## 200417  
+* [Smooth markets: A basic mechanism for organizing gradient-based learners](https://arxiv.org/pdf/2001.04678.pdf), Presenter: 박주영  
+
+
 <!--
 ## 20  
 * [](), Presenter: 박주영  
