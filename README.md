@@ -152,6 +152,19 @@ News
 ## 200417  
 * [Smooth markets: A basic mechanism for organizing gradient-based learners](https://arxiv.org/pdf/2001.04678.pdf), Presenter: 박주영  
 
+## 200424  
+* [Smooth markets: A basic mechanism for organizing gradient-based learners](https://arxiv.org/pdf/2001.04678.pdf), Presenter: 박주영  
+
+## 200501  
+* [Leverage the Average: an Analysis of Regularization in RL](https://arxiv.org/pdf/2003.14089.pdf), Presenter: 박주영  
+
+## 200508  
+* [Real World Games Look Like Spinning Tops](https://arxiv.org/pdf/2004.09468.pdf), Presenter: 박주영  
+
+## 200515  
+* [Real World Games Look Like Spinning Tops](https://arxiv.org/pdf/2004.09468.pdf), Presenter: 박주영  
+* [Should I tear down this wall? Optimizing social metrics by evaluating novel actions](https://arxiv.org/pdf/2004.07625.pdf), Presenter: 박주영
+
 
 <!--
 ## 20  
