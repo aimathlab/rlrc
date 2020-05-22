@@ -165,6 +165,9 @@ News
 * [Real World Games Look Like Spinning Tops](https://arxiv.org/pdf/2004.09468.pdf), Presenter: 박주영  
 * [Should I tear down this wall? Optimizing social metrics by evaluating novel actions](https://arxiv.org/pdf/2004.07625.pdf), Presenter: 박주영
 
+## 200522  
+* [Real World Games Look Like Spinning Tops](https://arxiv.org/pdf/2004.09468.pdf), Presenter: 박주영 
+
 
 <!--
 ## 20  
