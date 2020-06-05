@@ -168,6 +168,14 @@ News
 ## 200522  
 * [Real World Games Look Like Spinning Tops](https://arxiv.org/pdf/2004.09468.pdf), Presenter: 박주영 
 
+## 200529
+* [Real World Games Look Like Spinning Tops](https://arxiv.org/pdf/2004.09468.pdf), Presenter: 박주영 
+* [Navigating the Landscape of Games](https://arxiv.org/pdf/2005.01642.pdf), Presenter: 박주영 
+
+## 200605
+* [Real World Games Look Like Spinning Tops](https://arxiv.org/pdf/2004.09468.pdf), Presenter: 박주영 
+
+
 
 <!--
 ## 20  
