@@ -175,7 +175,14 @@ News
 ## 200605
 * [Real World Games Look Like Spinning Tops](https://arxiv.org/pdf/2004.09468.pdf), Presenter: 박주영 
 
+## 200612
+* [Real World Games Look Like Spinning Tops](https://arxiv.org/pdf/2004.09468.pdf), Presenter: 박주영 
 
+## 200703  
+* [The Lipschitz Constant of Self-Attention](https://arxiv.org/pdf/2006.04710.pdf), Presenter: 박주영  
+* [Acme: A Research Framework for Distributed Reinforcement Learning](https://arxiv.org/pdf/2006.00979.pdf), Presenter: 이충기
+* [A Distributional View on Multi-Objective Policy Optimization](https://arxiv.org/pdf/2005.07513.pdf), Presenter: 오승상  
+* [Learning and Querying Fast Generative Models for Reinforcement Learning](https://arxiv.org/pdf/1802.03006.pdf), Presenter: 이효빈  
 
 <!--
 ## 20  
