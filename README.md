@@ -180,9 +180,16 @@ News
 
 ## 200703  
 * [The Lipschitz Constant of Self-Attention](https://arxiv.org/pdf/2006.04710.pdf), Presenter: 박주영  
-* [Acme: A Research Framework for Distributed Reinforcement Learning](https://arxiv.org/pdf/2006.00979.pdf), Presenter: 이충기
+* [Acme: A Research Framework for Distributed Reinforcement Learning](https://arxiv.org/pdf/2006.00979.pdf), Presenter: 이충기  
 * [A Distributional View on Multi-Objective Policy Optimization](https://arxiv.org/pdf/2005.07513.pdf), Presenter: 오승상  
 * [Learning and Querying Fast Generative Models for Reinforcement Learning](https://arxiv.org/pdf/1802.03006.pdf), Presenter: 이효빈  
+
+## 200717  
+* [Multi-Path Policy Optimization](https://arxiv.org/pdf/1911.04207.pdf), Presenter: 박주영  
+* [Acme: A Research Framework for Distributed Reinforcement Learning](https://arxiv.org/pdf/2006.00979.pdf), Presenter: 이충기  
+* [A Distributional View on Multi-Objective Policy Optimization](https://arxiv.org/pdf/2005.07513.pdf), Presenter: 오승상  
+* [MAVEN: Multi-Agent Variational Exploration](https://arxiv.org/pdf/1910.07483.pdf), Presenter: 김태환  
+* [A Maximum Mutual Information Framework for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2006.02732.pdf), Presenter: 이주원  
 
 <!--
 ## 20  
@@ -191,7 +198,7 @@ News
 * [](), Presenter: 고광원  
 * [](), Presenter: 오승상  
 * [](), Presenter: 이효빈  
-* [Social Diversity and Social Preferences in Mixed-Motive Reinforcement Learning](https://arxiv.org/pdf/2002.02325.pdf), Presenter: 박정호  
+* [](), Presenter: 박정호  
 * [](), Presenter: 이주원  
 * [](), Presenter: 김태환  
 * [](), Presenter: 남상우  
